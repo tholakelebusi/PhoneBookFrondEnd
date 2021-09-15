@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'http://localhost:3000/api/phonebook',
+  url: 'https://614202a09859d65171830684--clever-bose-74facc.netlify.app/',
 };
 
 /*
